@@ -117,9 +117,10 @@ This project turned a 43-column, multi-region retail dataset into a clear, decis
 
 Together, the Python EDA, SQL queries, and Power BI dashboard tell a consistent story: the business's biggest opportunity isn't pricing or marketing spend, but tightening logistics reliability and using data-backed, region-specific strategies for brands, categories, and customer segments.
 
-📄 **Additional Documentation:**  
-- **`Supply_Chain_Insights.pdf`** – Project overview, business objectives, dashboard insights, and key findings.
-- **`Supply_Chain_Strategic_Recommendations.pdf`** – Strategic recommendations and actionable business improvement initiatives based on the analysis.
+## 📄 Additional Documentation
+
+- 📘 [Supply_Chain_Insights.pdf](./Supply_Chain_Insights.pdf) – Project overview, business objectives, dashboard insights, and key findings.
+- 📙 [Supply_Chain_Strategic_Recommendations.pdf](./Supply_Chain_Strategic_Recommendations.pdf) – Strategic recommendations and actionable business improvement initiatives based on the analysis.
 
 ## 👤 Author & Contact
 
